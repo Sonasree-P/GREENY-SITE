@@ -1,0 +1,171 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.navbar {
+    background-color: aquamarine;
+    padding: 5px;
+
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+
+
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+h1 {
+    display: inline-block;
+}
+
+ul {
+    display: inline-block;
+    margin-left: 60%;
+}
+
+.page-1 {
+    background-color: aquamarine;
+}
+
+
+
+.left-content {
+    margin-left: 60px;
+    margin-top: 40px;
+
+}
+
+img {
+    width: 300px;
+    height: 350px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+p {
+
+    font-size: 20px;
+}
+
+#header {
+    font-size: 50px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 12px;
+    width: 150px;
+    border: none;
+
+}
+
+.page-2{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.box {
+    border: 1px solid black;
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+}
+
+.page-3 {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
+
+#caption {
+    text-align: center;
+}
+
+
+.textcontent {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#para {
+    font-size: 18px;
+}
+
+.page-4 {
+
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+#text {
+    color: black;
+}
+
+.page-5 {
+    background-color: aquamarine;
+}
+
+
+
+.textcontent-2 {
+    padding-left: 40px;
+    padding-top: 80px;
+    width: 60%;
+}
+
+#right-img {
+    width: 300px;
+    height: 350px;
+    float: right;
+    margin-top: -40px;
+    margin-right: 50px;
+}
+
+.page-6 {
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    padding: 2px;
+}
+
+.footer {
+    background-color: aquamarine
+}
+
+#foot-para {
+    font-size: 18px;
+}
+
+.foot-contents {
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+#icon {
+    font-size: 28px;
+}
+
+#site-link {
+    color: blue;
+    font-size: 18px;
+}
